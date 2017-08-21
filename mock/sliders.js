@@ -1,0 +1,10 @@
+module.exports=[
+  "https://images-cn.ssl-images-amazon.com/images/G/28/xiaoyez/Prime/46hoursnew/Amazon_GW_MobileBillboard_PD_Template_1242x450_CN_46hours_3_Media._CB506200245_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/img13_audit/bmvd/Anna/JulyPromo/Event/ZAD_170627_reading_MobileBillboard_1242_450._CB505868345_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/yingying/zad_170710_literature_mobile_Hero_book._CB504455539_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/yingying/zad_170710_children_mobile_Hero_book._CB504455493_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/PeterHsiao/2017/06/xq-170606-Hero-book._CB508231464_.jpg",
+ "https://images-cn.ssl-images-amazon.com/images/G/28/yingying/ZAD_170706_MobileBillboard_1242x450_cnbook._CB506223209_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/kindle/design/2017/device/0710prime/ys-170710-2mob1242x450-baijiu-prime-dev._CB506270393_.jpg",
+  "https://images-cn.ssl-images-amazon.com/images/G/28/shiying/2017event/lpp_20170512_1242450_books2._CB510427533_.jpg"
+];
